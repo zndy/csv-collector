@@ -1,0 +1,2 @@
+C:\Users\z.xin\IdeaProjects\spring-samples-master\csvcollector\target\csv-collector-1.0-SNAPSHOT-spring-boot.jar
+C:\Users\z.xin\IdeaProjects\spring-samples-master\csvcollector\target\csv-collector-1.0-SNAPSHOT.jar
